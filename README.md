@@ -22,3 +22,5 @@
 ### fig1 [[SRC]](./matplotlib/fig1/fig1.py)
 ![figure 1](./matplotlib/fig1/fig1.png)
 
+### fig2 [[SRC]](./matplotlib/fig2/fig2.py)
+![figure 1](./matplotlib/fig2/fig2.png)
