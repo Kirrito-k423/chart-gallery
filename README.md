@@ -19,6 +19,6 @@
 
 ## matplotlib
 
-### fig1 [[SRC]](./matplotlib/fig1/fig1.js)
+### fig1 [[SRC]](./matplotlib/fig1/fig1.py)
 ![figure 1](./matplotlib/fig1/fig1.png)
 
